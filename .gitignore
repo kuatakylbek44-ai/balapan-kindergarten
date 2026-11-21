@@ -1,0 +1,31 @@
+# Local service metadata and credentials
+.openai/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local dependencies and caches
+node_modules/
+__pycache__/
+.cache/
+*.log
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Local archives and scratch files; dist/ is the deployable source
+*.zip
+*.tar
+*.tar.gz
+work/
+outputs/
