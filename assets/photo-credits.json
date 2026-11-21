@@ -1,0 +1,70 @@
+{
+  "note": "Stock photographs used only as illustrative demo imagery. These photographs do not depict this nursery, its staff, or customers and imply no endorsement. Replace with client-provided photographs before client launch.",
+  "license": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "verified_on": "2026-11-21",
+  "photos": [
+    {
+      "filename": "hero.jpg",
+      "author": "Yan Krukau",
+      "source_url": "https://www.pexels.com/photo/boy-and-girl-doing-painting-8612993/",
+      "download_url": "https://images.pexels.com/photos/8612993/pexels-photo-8612993.jpeg?cs=srgb&dl=pexels-yankrukov-8612993.jpg&fm=jpg&w=1800&q=85",
+      "description": "Teacher helping young children paint in a bright classroom.",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "filename": "classroom.jpg",
+      "author": "Ksenia Chernaya",
+      "source_url": "https://www.pexels.com/photo/an-empty-classroom-8535634/",
+      "download_url": "https://images.pexels.com/photos/8535634/pexels-photo-8535634.jpeg?cs=srgb&fm=jpg&w=1400&q=84",
+      "description": "Bright classroom with light wooden tables, yellow chairs and floral wall art.",
+      "width": 1400,
+      "height": 935
+    },
+    {
+      "filename": "art.jpg",
+      "author": "Ksenia Chernaya",
+      "source_url": "https://www.pexels.com/photo/kids-doing-artwork-8535599/",
+      "download_url": "https://images.pexels.com/photos/8535599/pexels-photo-8535599.jpeg?cs=srgb&fm=jpg&w=1400&q=84",
+      "description": "Children and teacher at a table with colourful art materials.",
+      "width": 1400,
+      "height": 935
+    },
+    {
+      "filename": "play.jpg",
+      "author": "Ksenia Chernaya",
+      "source_url": "https://www.pexels.com/photo/kids-playing-with-educational-toys-in-school-8535232/",
+      "download_url": "https://images.pexels.com/photos/8535232/pexels-photo-8535232.jpeg?cs=srgb&fm=jpg&w=1400&q=84",
+      "description": "Children sorting colourful balls in a playful yellow room with a teacher.",
+      "width": 1400,
+      "height": 935
+    },
+    {
+      "filename": "teacher.jpg",
+      "author": "Yakup Polat",
+      "source_url": "https://www.pexels.com/photo/smiling-teacher-with-children-in-art-class-20220313/",
+      "download_url": "https://images.pexels.com/photos/20220313/pexels-photo-20220313.jpeg?cs=srgb&fm=jpg&w=1400&q=84",
+      "description": "Smiling teacher creating clay crafts with children at a workshop.",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "filename": "garden.jpg",
+      "author": "Muziyan Du",
+      "source_url": "https://www.pexels.com/photo/children-hanging-on-a-swing-18830083/",
+      "download_url": "https://images.pexels.com/photos/18830083/pexels-photo-18830083.jpeg?cs=srgb&fm=jpg&w=1400&q=84",
+      "description": "Children enjoying outdoor swings with an adult nearby.",
+      "width": 1400,
+      "height": 933
+    }
+  ],
+  "fonts": {
+    "family": "Manrope",
+    "source_url": "https://fonts.google.com/specimen/Manrope",
+    "license": "SIL Open Font License 1.1",
+    "license_file": "Manrope-OFL.txt",
+    "weights": "400–800 variable",
+    "subsets": ["cyrillic-ext", "cyrillic", "latin"]
+  }
+}
